@@ -1,7 +1,7 @@
  
-🔭 I’m currently working on a backend
-🌱 I’m currently learning Java
-😄 Pronouns: Ele, Dele. He, His
+- 🔭 I’m currently working on a backend
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: Ele, Dele. He, His
 
 <div align="center">
   <a href="https://github.com/JoaoLopes994">
